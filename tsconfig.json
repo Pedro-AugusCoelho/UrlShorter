@@ -1,6 +1,7 @@
 /* Visit https://aka.ms/tsconfig.json to read more about this file */
 {
-  "compilerOptions": {      
+  "compilerOptions": {
+    "experimentalDecorators": true,      
     "baseUrl": "./src",
     "target": "es2019",                            
     "module": "commonjs", 
